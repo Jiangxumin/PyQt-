@@ -1,0 +1,8 @@
+PyQt英文网站：http://zetcode.com/gui/pyqt4/
+
+================================================
+网址：http://linux.linuxidc.com/
+
+用户名：www.linuxidc.com
+密 码 ：www.linuxidc.com
+============================================
