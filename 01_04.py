@@ -11,7 +11,8 @@ class Tooltip(QtGui.QWidget):
         self.setGeometry(300,300,250,150)#窗口的x,y坐标，及宽和高
         self.setWindowTitle('Tooltip')
         self.setToolTip('this is a<b>QWidget</b>widget')
-        QtGui.QToolTip.setFont(QtGui.QFont('OldEnglis',10))
+        #QtGui.QToolTip.setFont(QtGui.QFont('OldEnglis',10))
+        QtGui.QToolTip.setFont(QtGui.QFont("宋体",10))
 
 app = QtGui.QApplication(sys.argv)
 tooltip = Tooltip()

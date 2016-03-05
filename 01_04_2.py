@@ -14,11 +14,9 @@ class MessageBox(QtGui.QWidget):
         reply = QtGui.QMessageBox.question(self,'Message',"Are you sure to quit?",
                                            QtGui.QMessageBox.Yes,QtGui.QMessageBox.No)
         if reply == QtGui.QMessageBox.Yes:
-            print "yes"
             event.accept()
             pass
         else:
-            print "no"
             event.ignore()
             pass
 app = QtGui.QApplication(sys.argv)

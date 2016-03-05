@@ -1,6 +1,5 @@
 #coding=utf-8
 __author__ = 'Administrator'
-#重写事件处理方法
 
 import sys
 from PyQt4 import QtGui,QtCore

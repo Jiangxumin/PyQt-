@@ -7,15 +7,15 @@ class InputDialog(QtGui.QWidget):
     def __init__(self,parent = None):
         QtGui.QWidget.__init__(self)
 
-        self.setGeometry(300,300,350,80)
-        self.setWindowTitle("InputDialog")
-        self.button = QtGui.QPushButton("Dialog",self)
+        self.setGeometry(300,300,350,80)#位置尺寸
+        self.setWindowTitle("InputDialog")#标题
+        self.button = QtGui.QPushButton("Dialog",self)#按钮部件
         self.button.setFocusPolicy(QtCore.Qt.NoFocus)
         self.button.move(20,20)
         self.connect(self.button,QtCore.SIGNAL('clicked()'),self.showDialog)
         self.setFocus()
 
-        self.label = QtGui.QLineEdit(self)
+        self.label = QtGui.QLineEdit(self)#
         self.label.move(130,22)
 
     def showDialog(self):
