@@ -21,6 +21,16 @@
     <file path="/07_3_QSliderQLabel.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457178220671" ignored="false" />
     <file path="/07_4_QProgressBar.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457181685484" ignored="false" />
     <file path="/07_5_QCalendarWidget.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457195951125" ignored="false" />
+    <file path="D:/mcos-cdesktop-terminal/mcos-windows-client/src/controller/desktop/login.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457252062812" ignored="false" />
+    <file path="/01_04_3.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457271234562" ignored="false" />
+    <file path="/03_01.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457271938218" ignored="false" />
+    <file path="/03_02.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457272888375" ignored="false" />
+    <file path="/03_03.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457273423343" ignored="false" />
+    <file path="/03_04.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457274067671" ignored="false" />
+    <file path="/04_1.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457275011234" ignored="false" />
+    <file path="/04_2.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457277849265" ignored="false" />
+    <file path="/04_3.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457277829781" ignored="false" />
+    <file path="/04_4.py" changelist="d44efb46-36a3-4340-87b3-87b6c218a2bc" time="1457278843156" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +49,116 @@
     <favorites_list name="PyQt4入门指南" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="01_04_3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_04_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#56#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_01.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="23" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#63#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_02.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="48" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#50#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_03.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="49" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#50#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_04.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#55#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="0" selection-end="899" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#46#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#54#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="52" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#54#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_4.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="21" selection-start="603" selection-end="603" vertical-scroll-proportion="-0.07526882">
+              <folding>
+                <element signature="e#49#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_0.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -49,22 +168,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/05.py" />
-        <option value="$PROJECT_DIR$/05_1.py" />
-        <option value="$PROJECT_DIR$/07-QCheckBox.py" />
-        <option value="$PROJECT_DIR$/01_02.py" />
-        <option value="$PROJECT_DIR$/01_04_2.py" />
-        <option value="$PROJECT_DIR$/05_2.py" />
-        <option value="$PROJECT_DIR$/06_QInputDialog.py" />
-        <option value="$PROJECT_DIR$/06_QColorDialog.py" />
-        <option value="$PROJECT_DIR$/06_2_QColorDialog.py" />
-        <option value="$PROJECT_DIR$/06_3_QFontDialog.py" />
         <option value="$PROJECT_DIR$/01_04.py" />
         <option value="$PROJECT_DIR$/06_4_QFileDialog.py" />
         <option value="$PROJECT_DIR$/07-ToggleButton.py" />
         <option value="$PROJECT_DIR$/07_3_QSliderQLabel.py" />
         <option value="$PROJECT_DIR$/07_4_QProgressBar.py" />
         <option value="$PROJECT_DIR$/07_5_QCalendarWidget.py" />
+        <option value="$PROJECT_DIR$/01_04_3.py" />
+        <option value="$PROJECT_DIR$/03_01.py" />
+        <option value="$PROJECT_DIR$/03_02.py" />
+        <option value="$PROJECT_DIR$/03_03.py" />
+        <option value="$PROJECT_DIR$/03_04.py" />
+        <option value="$PROJECT_DIR$/04_1.py" />
+        <option value="$PROJECT_DIR$/04_3.py" />
+        <option value="$PROJECT_DIR$/04_2.py" />
+        <option value="$PROJECT_DIR$/04_04.py" />
+        <option value="$PROJECT_DIR$/04_4.py" />
       </list>
     </option>
   </component>
@@ -100,6 +219,30 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt4入门指南" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt4入门指南" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyQt4_exam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -127,30 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt4入门指南" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt4入门指南" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt4_exam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,8 +290,8 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.07_5_QCalendarWidget">
-    <configuration default="false" name="07_2_ToggleButton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04_4">
+    <configuration default="false" name="03_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -185,13 +304,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt4入门指南" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python_test_code\PyQt4_exam\07_2_ToggleButton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_04.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="06_2_QColorDialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="04_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,13 +323,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt4入门指南" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_2_QColorDialog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_1.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="07_3_QSliderQLabel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="04_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,13 +342,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt4入门指南" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_3_QSliderQLabel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_2.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="07_4_QProgressBar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="04_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -242,13 +361,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt4入门指南" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_4_QProgressBar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_3.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="07_5_QCalendarWidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="04_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -261,7 +380,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt4入门指南" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_5_QCalendarWidget.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_4.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -328,19 +447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.07_2_ToggleButton" />
-      <item index="1" class="java.lang.String" itemvalue="Python.06_2_QColorDialog" />
-      <item index="2" class="java.lang.String" itemvalue="Python.07_3_QSliderQLabel" />
-      <item index="3" class="java.lang.String" itemvalue="Python.07_4_QProgressBar" />
-      <item index="4" class="java.lang.String" itemvalue="Python.07_5_QCalendarWidget" />
+      <item index="0" class="java.lang.String" itemvalue="Python.03_04" />
+      <item index="1" class="java.lang.String" itemvalue="Python.04_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.04_3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.04_4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.07_5_QCalendarWidget" />
-        <item index="1" class="java.lang.String" itemvalue="Python.07_4_QProgressBar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.07_3_QSliderQLabel" />
-        <item index="3" class="java.lang.String" itemvalue="Python.06_2_QColorDialog" />
-        <item index="4" class="java.lang.String" itemvalue="Python.07_2_ToggleButton" />
+        <item index="0" class="java.lang.String" itemvalue="Python.04_4" />
+        <item index="1" class="java.lang.String" itemvalue="Python.04_3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.04_2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.03_04" />
       </list>
     </recent_temporary>
   </component>
@@ -376,18 +495,18 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23905997" sideWeight="0.8459069" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20016207" sideWeight="0.936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1540931" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -454,134 +573,136 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07_4_QProgressBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_3_QSliderQLabel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="22" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#44#54#0" expanded="false" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_1_QInputDialog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="76" selection-start="493" selection-end="510" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="199" selection-end="337" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_04_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_04_2.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="554" selection-end="561" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="538" selection-end="538" vertical-scroll-proportion="0.6">
-          <folding>
-            <element signature="e#43#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_2_ToggleButton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#33#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_1_QCheckBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_4_QFileDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5991471">
-          <folding>
-            <element signature="e#33#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_3_QFontDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.3432835">
-          <folding>
-            <element signature="e#51#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_2_QColorDialog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="67" selection-start="641" selection-end="641" vertical-scroll-proportion="0.57569295">
+        <state line="25" column="25" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#15#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_3_QSliderQLabel.py">
+    <entry file="file://$PROJECT_DIR$/01_04_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="13" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_04_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#56#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#63#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#50#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="49" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#50#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="0" selection-end="899" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#46#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#33#43#0" expanded="true" />
+            <element signature="e#54#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_5_QCalendarWidget.py">
+    <entry file="file://$PROJECT_DIR$/03_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="140" selection-end="140" vertical-scroll-proportion="0.42">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#33#43#0" expanded="true" />
+            <element signature="e#55#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_4_QProgressBar.py">
+    <entry file="file://$PROJECT_DIR$/04_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="884" selection-end="884" vertical-scroll-proportion="0.506">
+        <state line="0" column="0" selection-start="0" selection-end="52" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#33#43#0" expanded="true" />
+            <element signature="e#54#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="603" selection-end="603" vertical-scroll-proportion="-0.07526882">
+          <folding>
+            <element signature="e#49#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
